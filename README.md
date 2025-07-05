@@ -3,7 +3,7 @@
 
 ## Hola 👋
 
-<p>Soy Ing. Informático y MsC. Informática Aplicada, me encantan los restos y el trabajo en equipo</p>
+<p>Soy Ing. Informático y MsC. Informática Aplicada, me encantan los retos y el trabajo en equipo</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcosfuen&label=Profile%20views&color=0e75b6&style=flat" alt="marcosfuen" /> </p>
 
 ## Sobre mi
