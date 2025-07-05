@@ -1,6 +1,7 @@
 ![github-header-image](https://github.com/user-attachments/assets/ec23ccda-d1e8-469e-add5-d75d92840d8a)
 
 
+
 ## Hola 👋
 
 <p>Soy Ing. Informático y MsC. Informática Aplicada, me encantan los retos y el trabajo en equipo</p>
