@@ -26,7 +26,7 @@
 
 #### Proyectos  
 
-- 👨‍💻 Todos mis proyectos son publicos y estan aqui [https://github.com/marcosfuen](https://github.com/marcosfuen)
+- 👨‍💻 Todos mis proyectos son publicos y estan aqui [https://github.com/marcosfuen](https://github.com/marcosfuen?tab=repositories)
 - 💬 Puedes preguntarme por **react, python, django y mucho más**
 
 
