@@ -64,6 +64,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>   
 </p>
 -->
+<!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcosfuen" alt="marcosfuen" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosfuen&show_icons=true&locale=en&layout=compact" alt="marcosfuen" /></p>
@@ -71,6 +72,18 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=marcosfuen&show_icons=true&locale=en" alt="marcosfuen" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcosfuen&" alt="marcosfuen" /></p>
+-->
+
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=marcosfuen&theme=default&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=marcosfuen&theme=default&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+</p>
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosfuen&theme=default&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  
+</p>
 
 
 <!--
