@@ -26,6 +26,14 @@
 - Monitoreo: Conocimiento de herramientas de monitoreo como Zabbix, Grafana, Portainer . 
 - Cloud: Experiencia con plataformas en la nube como AWS, Azure o Google Cloud.
 
+#### Metodologías de desarrollo de software:
+- RUP (Proceso Unificado Racional)
+- Scrum
+- XP
+
+#### Lenguaje unificado de modelado:
+- UML 
+
 #### Proyectos  
 
 - 👨‍💻 Todos mis proyectos son publicos y estan aqui [https://github.com/marcosfuen](https://github.com/marcosfuen?tab=repositories)
