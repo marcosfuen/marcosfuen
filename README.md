@@ -20,10 +20,10 @@
 
 #### Ingeniería DevOps:
 
-- Automatización: Experiencia en la implementación de pipelines de CI/CD (GitLab CI). 
+- Automatización: Experiencia en la implementación de pipelines de CI/CD (GitLab CI), Ansible. 
 - Infraestructura como código: Familiaridad con herramientas como Ansible para la automatización de la infraestructura. 
 - Orquestación de contenedores: Experiencia con Docker para la gestión y despliegue de aplicaciones en contenedores. 
-- Monitoreo: Conocimiento de herramientas de monitoreo como Zabbix, Grafana, Portainer . 
+- Monitoreo: Conocimiento de herramientas de monitoreo como Zabbix, Grafana, Portainer, Observium . 
 - Cloud: Experiencia con plataformas en la nube como AWS, Azure o Google Cloud.
 
 #### Metodologías de desarrollo de software:
