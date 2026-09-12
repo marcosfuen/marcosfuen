@@ -42,7 +42,7 @@
 
 <h4 align="left">Lenguajes de programación y herramientas:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,yarn,windows,vue,vscode,vite,sqlite,react,postman,postgres,npm,nodejs,nginx,mysql,mongodb,materialui,md,linux,kali,jquery,js,java,graphql,grafana,gitlab,github,git,eclipse,docker,django,debian,bootstrap,apollo,d3&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ansible,js,html,css,python,yarn,windows,vue,vscode,vite,sqlite,react,postman,postgres,npm,nodejs,nginx,mysql,mongodb,materialui,md,linux,kali,jquery,js,java,graphql,grafana,gitlab,github,git,eclipse,docker,django,debian,bootstrap,apollo,d3&theme=light)](https://skillicons.dev)
 
 <!--
 <p align="left">
